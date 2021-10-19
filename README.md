@@ -11,7 +11,7 @@ Fiture:
 
 
 cara pake :
-- git clone https://github.com/fr00t16/bot-nulis/
+- git clone https://github.com/fr00t16/bot-nulis/ / atau download https://github.com/fr00t16/bot-nulis/archive/refs/heads/main.zip
 - pip3 install -r requirements.txt
 - ketik text tulisan di text.txt
 - py main.py
